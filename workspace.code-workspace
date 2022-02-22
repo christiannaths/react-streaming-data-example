@@ -1,0 +1,17 @@
+{
+  "folders": [
+	{
+		"name": "✨ sre",
+		"path": "."
+	},
+	{
+		"name": "🚀 @sre/webapp",
+		"path": "packages/webapp"
+	},
+	{
+		"name": "📦 @sre/wss",
+		"path": "packages/wss"
+	}
+],
+  "settings": {}
+}

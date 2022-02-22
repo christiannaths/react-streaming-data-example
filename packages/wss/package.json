@@ -1,0 +1,20 @@
+{
+  "name": "@sre/wss",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.mjs",
+  "license": "UNLICENSED",
+  "private": true,
+  "scripts": {
+    "start": "node-dev index.mjs"
+  },
+  "dependencies": {
+    "express": "^4.17.3",
+    "express-ws": "^5.0.2",
+    "nanoid": "^3.3.1",
+    "ws": "^8.5.0"
+  },
+  "devDependencies": {
+    "node-dev": "^7.1.0"
+  }
+}
